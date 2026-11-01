@@ -56,18 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="300" width='500' src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriniha&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
